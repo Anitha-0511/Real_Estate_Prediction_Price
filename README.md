@@ -76,5 +76,15 @@ After training, the model displays:
 
 ---
 
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/c977c97b-dce1-43a6-a53d-e89886c5d485" />
+
+
+<img width="346" alt="image" src="https://github.com/user-attachments/assets/c6e027ca-03e6-4fa3-9aff-245fdb4b1275" />
+
+
+
 🎯 **Enjoy predicting house prices with this app!** 🚀
+
+
+
 
